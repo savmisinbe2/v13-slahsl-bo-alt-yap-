@@ -1,0 +1,17 @@
+{
+  "name": "sav-v13",
+  "version": "0.0.1",
+  "description": "sav botlist code sunucusuna ait v13 altyapı",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "author": "sav#7709",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^0.4.1",
+    "discord.js": "^13.7.0",
+    "Sav.db": "^2.5.3"
+  }
+}
